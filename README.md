@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzr97ez2.gif?raw=true" width="300px" style="border-radius: 6px;"/>
+<img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzr97ez2.gif?raw=true" width="280px" style="border-radius: 6px;"/>
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on **project CAmejia**
