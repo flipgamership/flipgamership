@@ -159,8 +159,8 @@
 <a href="https://github.com/flipgamership/socket.io-tecnologia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=socket.io-tecnologia&show_icons=true&theme=nightowl" />
 </a>
-<a href="https://github.com/flipgamership/datos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=datos&show_icons=true&theme=nightowl" />
+<a href="https://github.com/flipgamership/dats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=dats&show_icons=true&theme=nightowl" />
 </a>
 
 <hr>
