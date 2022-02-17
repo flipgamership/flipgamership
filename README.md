@@ -157,7 +157,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&langs_count=8&show_icons=true&theme=nightowl)](https://github.com/flipgamership)
 
 <a href="https://github.com/flipgamership/socket.io-tecnologia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=scket.io-tecnologia&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=socket.io-tecnologia&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/flipgamership/datos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=datos&show_icons=true&theme=nightowl" />
