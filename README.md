@@ -14,7 +14,7 @@
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/developingCodeTech)
 
-- 📫 How to reach me **thefelipegamer7@gmail.com**
+- 📫 How to reach me **correariosjuanfelipe@gmail.com**
 
 
 <img align="left" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzra04cn.gif?raw=true" width="280px" style="border-radius: 6px;"/>
