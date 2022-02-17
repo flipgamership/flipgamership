@@ -15,6 +15,19 @@
 
 <hr>
 
+
+### 📊 Github Stats
+<a href='https://github.com/flipgamership/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/flipgamership/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/flipgamership/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+<hr>
+
 ### 🔨 Languages and Tools:
 <p align="left" style="margin-top: 0px;"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
