@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### 🧐 More About Me:
+
+- 🔭 I’m currently working on **project CAmejia**
+
+- 🌱 I’m currently learning **Kotlin, React native and Python**
+
+- 👯 I’m looking to collaborate on **[developing_code colombia](https://github.com/developingCodeTech)**
+
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/developingCodeTech)
+
+- 📫 How to reach me **thefelipegamer7@gmail.com**
+
+<hr>
+<h4 align="left">Connect with me: **correariosjuanfelipe@gmail.com**</h4>
 
 
 ### 🔨 Languages and Tools:
