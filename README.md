@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzr97ez2.gif?raw=true" width="280px" style="border-radius: 6px;"/>
+
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on **project CAmejia**
@@ -19,6 +20,7 @@
 
 
 ### 🔨 Languages and Tools:
+
 <p align="left" style="margin-top: 0px;"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -142,7 +144,9 @@
         target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
             width="40" height="40" /> </a> </p>
 <br>
+
 ### 📊 Github Stats
+
 <hr>
 <img  align ="center" src ="https://metrics.lecoq.io/flipgamership?template=terminal&base.community=0&languages=1&stars=1&isocalendar=1&achievements=1&activity=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FBogota" alt ="Métricas" width ="100%">
 <br>
