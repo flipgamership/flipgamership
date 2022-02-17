@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Juan Felipe Correa Rios or Flipgamership</h1>
 
+<h3 align="center">welcome to my profile my name is juan felipe Correa software developer specialized in fullstack web development I can program in js, nodejs, php, python but I am also an android programmer with kotlin and react native I also have a specialty in many tools aimed at development and The programing</h3>
+    
 <img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzr97ez2.gif?raw=true" width="280px" style="border-radius: 6px;"/>
 
 ### 🧐 More About Me:
