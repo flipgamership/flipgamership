@@ -154,7 +154,7 @@
 <img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzrbkf2q.gif?raw=true" width="200px" style="border-radius: 6px;"/>
 
 [![flipgamership github stats](https://github-readme-stats.vercel.app/api?username=flipgamership&show_icons=true&theme=nightowl)](https://github.com/flipgamership)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&langs_count=8&show_icons=true&theme=react)](https://github.com/flipgamership)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&langs_count=8&show_icons=true&theme=blueberry)](https://github.com/flipgamership)
 [![flipgamership github stats](https://github-readme-stats.vercel.app/api?username=developingCodeTech&show_icons=false&theme=cobalt)](https://github.com/developingCodeTech)
 
 <hr>
