@@ -13,8 +13,6 @@
 - 📫 How to reach me **thefelipegamer7@gmail.com**
 
 <hr>
-<h4 align="left">Connect with me: **correariosjuanfelipe@gmail.com**</h4>
-
 
 ### 🔨 Languages and Tools:
 <p align="left" style="margin-top: 0px;"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
