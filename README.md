@@ -151,7 +151,7 @@
 
 <hr>
 
-<img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzrbkf2q.gif?raw=true" width="240px" style="border-radius: 6px;"/>
+<img align="right" alt="GIF" src="https://github.com/flipgamership/flipgamership/blob/main/animation_500_kzrbkf2q.gif?raw=true" width="200px" style="border-radius: 6px;"/>
 
 [![flipgamership github stats](https://github-readme-stats.vercel.app/api?username=flipgamership&show_icons=true&theme=dracula)](https://github.com/flipgamership)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&langs_count=8&show_icons=true&theme=dracula)](https://github.com/flipgamership)
