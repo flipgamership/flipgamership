@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin, React native and Python**
 
-- 👯 I’m looking to collaborate on **[developing_code colombia](https://github.com/developingCodeTech)**
-
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/developingCodeTech)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/flipgamership)
 
 - 📫 How to reach me **correariosjuanfelipe@gmail.com**
 
