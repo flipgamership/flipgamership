@@ -6,7 +6,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **project CAmejia**
+- 🔭 I’m currently working on **project MrzGroup**
 
 - 🌱 I’m currently learning **Kotlin, React native and Python**
 
