@@ -6,7 +6,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **project MrzGroup**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Kotlin, React native and Python**
 
