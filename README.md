@@ -6,7 +6,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **learning React**
+- 🔭 I’m currently working on **learning C#**
 
 - 🌱 I’m currently learning **Kotlin, React native and Python**
 
