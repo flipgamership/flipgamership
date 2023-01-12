@@ -48,7 +48,7 @@
 <br>
 
 
-### 🍂 git stage:
+### 🍂 Git stage:
 
 
 <br>
