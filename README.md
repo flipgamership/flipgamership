@@ -46,20 +46,5 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <br>
-
-### 📊 Github Stats
-
-<hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flipgamership)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/flipgamership/redlineProyectU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=redlineProyectU&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/flipgamership/datos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=datos&show_icons=true&theme=nightowl" />
-</a>
-
-<hr>
 <img  align ="center" src ="https://metrics.lecoq.io/flipgamership?template=classic&base.activity=0&base.community=0&isocalendar=1&languages=1&stars=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FBogota" width ="100%">
 <br>
