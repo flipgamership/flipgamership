@@ -51,8 +51,7 @@
 
 <hr>
 
-[![flipgamership github stats](https://github-readme-stats.vercel.app/api?username=flipgamership&show_icons=true&theme=nightowl)](https://github.com/flipgamership)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&langs_count=8&show_icons=true&theme=nightowl)](https://github.com/flipgamership)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flipgamership)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/flipgamership/redlineProyectU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipgamership&repo=redlineProyectU&show_icons=true&theme=nightowl" />
