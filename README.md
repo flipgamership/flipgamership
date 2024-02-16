@@ -48,6 +48,9 @@
 <br>
 ### 🍂 Git stage:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flipgamership&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipgamership&card_width=1060&layout=normal&theme=github_dark)
+
 
 <br>
 ### 🏆 My GitHub Profile Trophies
