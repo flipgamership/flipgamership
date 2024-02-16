@@ -46,6 +46,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <br>
+
 ### 🍂 Git stage:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flipgamership&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
@@ -53,6 +54,7 @@
 
 
 <br>
+
 ### 🏆 My GitHub Profile Trophies:
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=flipgamership&theme=onestar&margin-w=40&margin-h=20)](https://github.com/flipgamership/github-profile-trophy)
