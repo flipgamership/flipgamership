@@ -52,5 +52,6 @@
 
 
 <br>
-
+🏆 My GitHub Profile Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=flipgamership&theme=onestar&margin-w=40&margin-h=20)](https://github.com/flipgamership/github-profile-trophy)
 <br>
